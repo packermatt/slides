@@ -287,3 +287,134 @@ a h3 {
 a h3:hover {
     color: #5F0000;
 }
+
+.editlink {
+  display: inline-block;
+  padding-left: 5px;
+  font-size: 12px;
+}
+
+.editlink a {
+  font-size: 12px;
+}
+
+div#cloud-use-cases {
+    padding-left: 20px;
+}
+
+div#cloud-use-cases h2 {
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 18px;
+  margin-left: 40px;
+  margin-right: 40px;
+  width: calc(100% - 60px);
+}
+
+tr:nth-child(odd) td {
+  background-color: #ffffff;
+}
+
+class#financial {
+  background-color: #005bb6;
+  color: white;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+class#gov {
+  background-color: #b60006;
+  color: white;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+class#oil {
+  background-color: #fffb00;
+  color: #000000;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+class#automative {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+th#industry {
+  width: 107px;
+}
+
+b {
+  font-weight: bold;
+}
+
+class#edge {
+  background-color: #003366;
+  color: #ffffff;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+class#cloud {
+  background-color: #37a3a3;
+  color: #ffffff;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+class#infrastructure {
+  background-color: #21134d;
+  color: #ffffff;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+class#snow {
+  background-color: #5e40be;
+  color: #ffffff;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+class#network {
+  background-color: #0066cc;
+  color: #ffffff;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+class#apac {
+  background-color: #00853c;
+  color: #ffffff;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+class#na {
+  background-color: #b64900;
+  color: white;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+class#emea {
+  background-color: #b60045;
+  color: white;
+  padding: 3px;
+  border-radius: 5px;
+}
+
+.tableofcontents {
+  display: inline-block;
+  padding-right: 150px;
+}
+
+.highlighttable {
+  display: inline-block;
+  vertical-align: top;
+}
